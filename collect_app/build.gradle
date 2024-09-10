@@ -116,6 +116,7 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
             resValue("string", "GOOGLE_MAPS_API_KEY", googleMapsApiKey)
             resValue("string", "mapbox_access_token", mapboxAccessToken)
+            signingConfig signingConfigs.release
         }
 
         // Release build for the official ODK Collect app
