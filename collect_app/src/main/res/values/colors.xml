@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3e9fcc</color>
+    <color name="colorPrimary">#FF9800</color>
     <color name="colorOnPrimary">#ffffff</color>
-    <color name="colorPrimaryContainer">#bfe9ff</color>
+    <color name="colorPrimaryContainer">#D7A966</color>
     <color name="colorOnPrimaryContainer">#001f2a</color>
-    <color name="colorPrimaryInverse">#6dd2ff</color>
+    <color name="colorPrimaryInverse">#D19A49</color>
 
     <color name="colorError">#ba1a1a</color>
     <!-- <color name="colorOnError">#ffffff</color> -->
