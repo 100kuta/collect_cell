@@ -84,7 +84,7 @@ android {
         testInstrumentationRunner('androidx.test.runner.AndroidJUnitRunner')
         multiDexEnabled true
         vectorDrawables.useSupportLibrary = true
-        archivesBaseName = 'ODK-Collect'
+        archivesBaseName = 'CELL-Collect'
     }
 
     signingConfigs {

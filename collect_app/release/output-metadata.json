@@ -11,9 +11,9 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 4960,
-      "versionName": "6b8c9a0689-dirty",
-      "outputFile": "ODK-Collect-release.apk"
+      "versionCode": 4961,
+      "versionName": "ff9a769fcf-dirty",
+      "outputFile": "CELL-Collect-release.apk"
     }
   ],
   "elementType": "File",
@@ -22,14 +22,14 @@
       "minApi": 28,
       "maxApi": 30,
       "baselineProfiles": [
-        "baselineProfiles/1/ODK-Collect-release.dm"
+        "baselineProfiles/1/CELL-Collect-release.dm"
       ]
     },
     {
       "minApi": 31,
       "maxApi": 2147483647,
       "baselineProfiles": [
-        "baselineProfiles/0/ODK-Collect-release.dm"
+        "baselineProfiles/0/CELL-Collect-release.dm"
       ]
     }
   ],
