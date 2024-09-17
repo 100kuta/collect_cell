@@ -92,11 +92,8 @@ class FirstLaunchActivity : LocalizedActivity() {
                 )
             }
 
-            appName.text = String.format(
-                "%s %s",
-                getString(org.odk.collect.strings.R.string.collect_app_name),
-                versionInformation.versionToDisplay
-            )
+            appName.text =
+                getString(org.odk.collect.strings.R.string.collect_app_name)
 
             dontHaveServer.apply {
                 text = SpannableStringBuilder()
