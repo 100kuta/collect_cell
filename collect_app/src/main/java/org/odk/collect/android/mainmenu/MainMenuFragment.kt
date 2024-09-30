@@ -224,7 +224,7 @@ class MainMenuFragment(
 
     private fun initAppName(binding: MainMenuBinding) {
         binding.appName.text =
-            getString(string.collect_app_name)
+            getString(string.collect_app_name) + " " + getString(string.by)
 
         val versionSHA = mainMenuViewModel.versionCommitDescription
         if (versionSHA != null) {
